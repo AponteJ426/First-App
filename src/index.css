@@ -1,0 +1,31 @@
+body {
+font-size: 8vmin;
+font-family:  "Helvetica Neue", Helvetica, sans-serif;
+margin: 20vmin;
+text-align: center;
+background-color: dimgrey;
+color:turquoise;
+
+}
+
+
+ button{
+   margin: 5vmin;
+   padding: 2vmin;
+   color: black;
+   border-radius: 50px;
+   background:greenyellow;
+   border-bottom: cornsilk;
+   border-color: cornsilk
+   ;
+
+ }
+ button:hover{
+  background: linear-gradient(180deg, #113ed4 0%, hsl(0, 0%, 100%) 100%);
+  transition: all .3s;
+   color: white;
+   padding: 17px;
+  
+ }
+
+
